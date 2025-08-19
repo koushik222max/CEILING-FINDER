@@ -15,7 +15,7 @@ This script makes decimals jump 👉 straight to the **next whole floor in the c
 ✨ Example:  
 🐭 7.4 → 🎩✨ 8  
 
-
+---
 ## 🚀 Call to Action 🎉  
 🎡 Fork it.  
 🎠 Run it.  
